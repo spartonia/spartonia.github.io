@@ -8,14 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : SPartonia's Blog
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Saeed Partonia
+  email : saeed[dot]partonia[at]gmail.com	
+  github : spartonia
+  twitter : spartonia
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -73,7 +72,7 @@ JB :
   #
   archive_path: /archive.html
   categories_path : /categories.html
-  tags_path : /tags.html
+  # tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
 
@@ -133,4 +132,6 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
+
   
