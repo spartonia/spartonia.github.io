@@ -25,7 +25,7 @@ author:
   pinterest: false
   linkedin: spartonia
   bio: Software Engineer, with passion in machine learning 
-  email_md5: 
+  email_md5: false
 
 rss_path: feed.xml
 categories_path: categories.html
