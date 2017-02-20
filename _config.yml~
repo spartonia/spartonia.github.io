@@ -25,7 +25,8 @@ author:
   pinterest: false
   linkedin: spartonia
   bio: Software Engineer, with passion in machine learning 
-  email_md5: false
+  email_md5: 
+  profile_img: 'assets/media/saeed.jpg'
 
 rss_path: feed.xml
 categories_path: categories.html
