@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: spartonia
+disqus: false
 google_analytics: 'UA-72671171-2'
 title: Saeed Partonia
 
