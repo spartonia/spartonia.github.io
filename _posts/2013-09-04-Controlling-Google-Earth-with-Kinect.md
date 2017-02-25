@@ -6,6 +6,6 @@ tags: [google earth, kinect, c++]
 comments: true
 youtubeId: iHROE0tyIZA
 ---
-A simple kinect interface to control google earth! The project was part of Digital Vision course at Umea University. 
+A kinect interface to control google earth! The project was part of Digital Vision course at Umea University. 
 
 {% include youtubePlayer.html id=page.youtubeId %}
