@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Saeed Partonia
+      title: Bizim Consulting AB
 
 description: SPartonia's Blog
 author:
@@ -38,3 +38,5 @@ BASE_PATH:
 
 gems:
   - jekyll-paginate
+
+permalink: /:title/
